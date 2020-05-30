@@ -1,0 +1,14 @@
+C:\Users\Luka\source\repos\Beasted\Beasted\bin\Release\Beasted.exe.config
+C:\Users\Luka\source\repos\Beasted\Beasted\bin\Release\Beasted.exe
+C:\Users\Luka\source\repos\Beasted\Beasted\bin\Release\Beasted.pdb
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.beastedMainForm.resources
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.Properties.Resources.resources
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.exe
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.pdb
+C:\Users\Luka\source\repos\Beasted\Beasted\bin\Release\Newtonsoft.Json.dll
+C:\Users\Luka\source\repos\Beasted\Beasted\bin\Release\Newtonsoft.Json.xml
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.Form2.resources
+C:\Users\Luka\source\repos\Beasted\Beasted\obj\Release\Beasted.csproj.CopyComplete
